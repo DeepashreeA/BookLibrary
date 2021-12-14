@@ -6,6 +6,13 @@
       "bookDescription": "It's my book",
       "author" : "Me",
       "price" : 123.45
+    },
+    {
+      "id" : 2,
+      "bookName": "My Book 2",
+      "bookDescription": "It's my book",
+      "author" : "Me",
+      "price" : 123.45
     }
   ]
 }
