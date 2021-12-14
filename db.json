@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "id" : 1
+      "id" : 1,
       "bookName": "My Book",
       "bookDescription": "It's my book",
       "author" : "Me",
