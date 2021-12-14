@@ -1,14 +1,11 @@
 {
   "posts": [
     {
-      "bookName": 2,
-      "bookDescription": "Post 2",
-      "author" : "",
-      "price" : 
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "id" : 1
+      "bookName": "My Book",
+      "bookDescription": "It's my book",
+      "author" : "Me",
+      "price" : 123.45
     }
   ]
 }
