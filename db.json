@@ -10,7 +10,7 @@
     {
       "id" : 2,
       "bookName": "My Book 2",
-      "bookDescription": "It's my book",
+      "bookDescription": "It is my book",
       "author" : "Me",
       "price" : 123.45
     }
